@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ServicesBestPractice</string>
+    <string name="str_start">start_download</string>
+    <string name="str_pause">pause_download</string>
+    <string name="str_cancel">cancel_download</string>
 </resources>
